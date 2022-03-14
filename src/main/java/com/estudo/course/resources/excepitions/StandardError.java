@@ -1,4 +1,4 @@
-package com.estudo.course.resources.excepitions;
+  package com.estudo.course.resources.excepitions;
 
 import java.io.Serializable;
 import java.time.Instant;
